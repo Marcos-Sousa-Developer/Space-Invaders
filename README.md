@@ -1,2 +1,3 @@
 # Space_Invaders
-Space Invaders Game
+Space Invaders Game <br>
+HTML, CSS, & Javascript
