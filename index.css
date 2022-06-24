@@ -1,0 +1,45 @@
+
+
+#background {
+    background-image: url(image/background.jpg);  
+    height: 720px;
+    width: 1280px;
+    
+
+}
+
+#ship {
+    top: 650px;
+    left: 640px; 
+    position: absolute;
+} 
+
+#image-ship {
+
+    height: 50px;
+    width: 50px;
+    
+} 
+
+#enemy {
+    align-items: center;
+    position: absolute ;
+}
+
+#image-enemy {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+} 
+
+#missil {
+align-items: center;
+   position: absolute;
+    
+} 
+
+#image-retangulo {
+    height: 10px;
+    width: 10px;
+    position: absolute ;
+}
