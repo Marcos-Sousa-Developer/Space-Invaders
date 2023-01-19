@@ -2,24 +2,29 @@
     <img src="https://cdn.thenewstack.io/media/2022/02/6e5c3188-1a7d446a-spaceinvaderslogo-1024x576-1.png" alt="Logo">
 </p>
 
-# <h1 align="center">Sistema Solar</h3>
-<h4 align="center">Projeto para a cadeira de Análise e Desenho de Software (2021/2022)</h5>
+# <h1 align="center">Space Invaders</h3>
 
 <hr>
 
-# Objetivo
-Pretende-se que contribua para o desenvolvimento iterativo de um sistema de gestão de Leilões Online que toma como ponto de partida o que explorámos nas aulas.
-Vamos assim exercitar as principais competências desta disciplina, a saber, a análise de
-requisitos da aplicação, o desenho da solução com atribuição de responsabilidades aos
-objectos mais apropriados, e a passagem do desenho para o código. Procuraremos
-oportunidades para aplicar padrões de desenho consagrados como boas práticas.
+# History
+Space Invaders is a 1978 shoot 'em up arcade game developed by Tomohiro Nishikado. It was manufactured and sold by Taito in Japan, and licensed to the Midway division of Bally for overseas distribution. Space Invaders was the first fixed shooter and set the template for the shoot 'em up genre. <br>
+The goal is to defeat wave after wave of descending aliens with a horizontally moving laser to earn as many points as possible. <br>
 
-## Descrição	do	contexto	onde	se	enquadra	o	objetivo	deste	trabalho 
-Pretende-se desenvolver uma aplicação para fazer a gestão de leilões online. O sistema deve permitir que utilizadores autenticados possam adicionar artigos a serem leiloados. <br>
-O sistema deve também mediar leilões registando as ofertas dos diferentes compradores durante um determinado período de tempo. Findo este período, o sistema deve permitir a efectivação da venda entre o vendedor e o comprador que efectuou a licitação mais
-elevada. Cada participante do sistema pode estar envolvido simultaneamente em vários leilões, quer como vendedor, quer como comprador
+Space Invaders is considered one of the most influential video games of all time. It ushered in the golden age of arcade video games. It was the inspiration for numerous video games and game designers across different genres, and has been ported and re-released in various forms. The 1980 Atari VCS version quadrupled sales of the VCS, thereby becoming the first killer app for video game consoles. More broadly, the pixelated enemy alien has become a pop culture icon, often representing video games as a whole.
+
+<hr>
+
+## Gameplay
+Space Invaders is a fixed shooter in which the player moves a laser cannon horizontally across the bottom of the screen and fires at aliens overhead. The aliens begin as five rows of eleven that move left and right as a group, shifting downward each time they reach a screen edge. The goal is to eliminate all of the aliens by shooting them. 
+
+<hr>
+
+## Development 
+
+This game is currently in development, for now you can make all the moves allowed and do shots. 
+
 
 #### **Run it on terminal or open the code and test it** 
 ```bash
-mvn test
+open index.html
 ```
